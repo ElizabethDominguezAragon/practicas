@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\Area\Area\obj\Debug\Area.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\Area\Area\obj\Debug\Area.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\Area\Area\obj\Debug\Area.Form1.resources
+C:\Users\Alumno\source\repos\Area\Area\obj\Debug\Area.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Area\Area\obj\Debug\Area.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Area\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Area\Area\bin\Debug\Area.exe.config
+C:\Users\Alumno\source\repos\Area\Area\bin\Debug\Area.exe
+C:\Users\Alumno\source\repos\Area\Area\bin\Debug\Area.pdb
+C:\Users\Alumno\source\repos\Area\Area\obj\Debug\Area.exe
+C:\Users\Alumno\source\repos\Area\Area\obj\Debug\Area.pdb
