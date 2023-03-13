@@ -1,0 +1,11 @@
+C:\Users\karla\source\repos\FRUTERIA\FRUTERIA\obj\Debug\FRUTERIA.csproj.AssemblyReference.cache
+C:\Users\karla\source\repos\FRUTERIA\FRUTERIA\obj\Debug\FRUTERIA.csproj.SuggestedBindingRedirects.cache
+C:\Users\karla\source\repos\FRUTERIA\FRUTERIA\obj\Debug\FRUTERIA.Form1.resources
+C:\Users\karla\source\repos\FRUTERIA\FRUTERIA\obj\Debug\FRUTERIA.Properties.Resources.resources
+C:\Users\karla\source\repos\FRUTERIA\FRUTERIA\obj\Debug\FRUTERIA.csproj.GenerateResource.cache
+C:\Users\karla\source\repos\FRUTERIA\FRUTERIA\obj\Debug\FRUTERIA.csproj.CoreCompileInputs.cache
+C:\Users\karla\source\repos\FRUTERIA\FRUTERIA\bin\Debug\FRUTERIA.exe.config
+C:\Users\karla\source\repos\FRUTERIA\FRUTERIA\bin\Debug\FRUTERIA.exe
+C:\Users\karla\source\repos\FRUTERIA\FRUTERIA\bin\Debug\FRUTERIA.pdb
+C:\Users\karla\source\repos\FRUTERIA\FRUTERIA\obj\Debug\FRUTERIA.exe
+C:\Users\karla\source\repos\FRUTERIA\FRUTERIA\obj\Debug\FRUTERIA.pdb
